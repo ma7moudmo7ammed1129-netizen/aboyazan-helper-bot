@@ -1,0 +1,5 @@
+python-telegram-bot==21.6
+APScheduler==3.10.4
+requests==2.32.3
+pytz==2024.2
+worker: python bot.py
